@@ -43,6 +43,7 @@ htmlcov/
 nosetests.xml
 coverage.xml
 *.cover
+*,cover
 .hypothesis/
 
 # Translations
@@ -98,8 +99,9 @@ ENV/
 # mypy
 .mypy_cache/
 
-# windows files
+# Another files
 *.exe
+*.zip
 
 # erport folder
-report/
+report/ 

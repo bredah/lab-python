@@ -1,4 +1,12 @@
-pytest==3.3.0
-pytest-html==1.16.0
+# Web automation
 selenium==3.8.0
+# Unit Test
+pytest==3.3.0
+# Unit Test - Report
+pytest-html==1.16.0
+# Code Coverage
+pytest-cov==2.5.1
+# Progress bar
 tqdm==4.19.4
+# Rest API
+flask==0.12.2
